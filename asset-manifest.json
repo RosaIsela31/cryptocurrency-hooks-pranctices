@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cryptocurrency-hooks-pranctices/static/css/main.7509406b.chunk.css",
+    "main.js": "/cryptocurrency-hooks-pranctices/static/js/main.de2e5aed.chunk.js",
+    "main.js.map": "/cryptocurrency-hooks-pranctices/static/js/main.de2e5aed.chunk.js.map",
+    "runtime-main.js": "/cryptocurrency-hooks-pranctices/static/js/runtime-main.0c3326fb.js",
+    "runtime-main.js.map": "/cryptocurrency-hooks-pranctices/static/js/runtime-main.0c3326fb.js.map",
+    "static/js/2.bb7d2947.chunk.js": "/cryptocurrency-hooks-pranctices/static/js/2.bb7d2947.chunk.js",
+    "static/js/2.bb7d2947.chunk.js.map": "/cryptocurrency-hooks-pranctices/static/js/2.bb7d2947.chunk.js.map",
+    "index.html": "/cryptocurrency-hooks-pranctices/index.html",
+    "precache-manifest.17a51019f1ec959e3e54b56aedc7d9de.js": "/cryptocurrency-hooks-pranctices/precache-manifest.17a51019f1ec959e3e54b56aedc7d9de.js",
+    "service-worker.js": "/cryptocurrency-hooks-pranctices/service-worker.js",
+    "static/css/main.7509406b.chunk.css.map": "/cryptocurrency-hooks-pranctices/static/css/main.7509406b.chunk.css.map",
+    "static/js/2.bb7d2947.chunk.js.LICENSE": "/cryptocurrency-hooks-pranctices/static/js/2.bb7d2947.chunk.js.LICENSE",
+    "static/media/cryptomonedas.png": "/cryptocurrency-hooks-pranctices/static/media/cryptomonedas.96e45d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c3326fb.js",
+    "static/js/2.bb7d2947.chunk.js",
+    "static/css/main.7509406b.chunk.css",
+    "static/js/main.de2e5aed.chunk.js"
+  ]
+}
